@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio_site/static/css/main.62ce0be7.css",
+    "main.js": "/portfolio_site/static/js/main.e6a55c48.js",
+    "static/js/787.37faa4c4.chunk.js": "/portfolio_site/static/js/787.37faa4c4.chunk.js",
+    "static/media/1.png": "/portfolio_site/static/media/1.b5c2a5841f76884dba43.png",
+    "static/media/4.png": "/portfolio_site/static/media/4.120c9a131ff820a681f1.png",
+    "static/media/Home-img.png": "/portfolio_site/static/media/Home-img.5c1cd868ed02dd772ae3.png",
+    "static/media/School.png": "/portfolio_site/static/media/School.41ee172840a429021397.png",
+    "static/media/College.png": "/portfolio_site/static/media/College.acfea63f097abd2a60a8.png",
+    "static/media/Image.png": "/portfolio_site/static/media/Image.b8e407cc0e40d1f5136c.png",
+    "static/media/2.png": "/portfolio_site/static/media/2.21a61cd9b5b92e362125.png",
+    "static/media/5.png": "/portfolio_site/static/media/5.0dc8ffcc70705800b70b.png",
+    "static/media/8.png": "/portfolio_site/static/media/8.e82d304d2fe1abe951e0.png",
+    "static/media/6.png": "/portfolio_site/static/media/6.bd9e3f65ff50ad9eec75.png",
+    "static/media/3.png": "/portfolio_site/static/media/3.e7f1ca9dcd06e9d85f47.png",
+    "static/media/10.png": "/portfolio_site/static/media/10.b9ebc89af4b548918f56.png",
+    "static/media/9.png": "/portfolio_site/static/media/9.2dcc49b8c289e332a283.png",
+    "static/media/7.png": "/portfolio_site/static/media/7.39746744e5bcab1cdb32.png",
+    "index.html": "/portfolio_site/index.html",
+    "main.62ce0be7.css.map": "/portfolio_site/static/css/main.62ce0be7.css.map",
+    "main.e6a55c48.js.map": "/portfolio_site/static/js/main.e6a55c48.js.map",
+    "787.37faa4c4.chunk.js.map": "/portfolio_site/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ce0be7.css",
+    "static/js/main.e6a55c48.js"
+  ]
+}
